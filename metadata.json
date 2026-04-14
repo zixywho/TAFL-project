@@ -1,0 +1,6 @@
+{
+  "name": "NFA to DFA Visualizer",
+  "description": "A step-by-step visualization tool for converting Non-deterministic Finite Automata (NFA) to Deterministic Finite Automata (DFA) using subset construction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
